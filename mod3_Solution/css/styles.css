@@ -1,0 +1,33 @@
+* {
+    font-family: "Comic sans ms",Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.6em;
+}
+
+ul.navbar-nav {
+    background : grey;
+}
+.navbar-nav .nav-item .nav-link{
+    font-size: 1.1em;
+    color: white;
+}
+.navbar-nav li {
+    border-bottom:1px solid white ;
+    border-radius: 5px;
+}
+.navbar-nav li:hover, .navbar-nav li:active{
+    border-radius: 3px;
+    background: linear-gradient(180deg,rgba(36, 36, 36, 0.2),rgba(94, 94, 94, 1));
+}
+
+.bg-blue {
+    background: #275b79e8;
+}
+
+hr {
+    height: 2px;
+    background: linear-gradient(180deg,rgba(0,0,0,0.2),rgba(0,0,0,0.8));
+    
+}
