@@ -5,6 +5,10 @@
 .navbar-brand {
     font-size: 1.6em;
 }
+
+ul.navbar-nav {
+    background : grey;
+}
 .navbar-nav .nav-item .nav-link{
     font-size: 1.1em;
     color: white;
